@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarkAlexI
+- 👋 Hi, I’m @MarkAlexI, a JavaScript developer.
 <!---
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 --->
 
