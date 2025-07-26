@@ -2,9 +2,9 @@
 
 👋 Hi, I’m @MarkAlexI, a JavaScript developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m interested in frontend and backend for building web applications.
+- :telescope: I am engaged in developing web applications using frontend and backend technologies.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time, I write translations for Kata on Codewars and write tech articles.
 
 - :mailbox:How to reach me: mailto:aacsmi06@gmail.com.
 <!---
