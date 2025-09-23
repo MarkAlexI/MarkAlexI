@@ -1,3 +1,12 @@
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MarkAlexI&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/MarkAlexI"
+    width="600"
+    height="120"
+  />
+</a>
+
 ### :man_technologist: About Me :
 
 👋 Hi, I’m @MarkAlexI, a JavaScript developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
