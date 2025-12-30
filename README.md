@@ -15,7 +15,7 @@
 
 - :zap: In my free time, I write translations for Kata on Codewars and write tech articles.
 
-- :mailbox:How to reach me: mailto:aacsmi06@gmail.com.
+- :mailbox:How to reach me: mailto:markalexi@proton.me.
 <!---
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
+[![MarkAlexI profile views](https://u8views.com/api/v1/github/profiles/85037509/views/day-week-month-total-count.svg)](https://u8views.com/github/MarkAlexI)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=markalexi&theme=light&background=ffffff)](https://git.io/streak-stats)
